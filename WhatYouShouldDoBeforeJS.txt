@@ -1,0 +1,7 @@
+1 - you should learn html , css
+2 - you should download text editor like :
+                        { 1 - Brackets           :  https://brackets.io/
+                          2 - Komode IDE         :  https://www.activestate.com/products/komodo-ide/downloads/edit/
+                          3 - Visual studio code :  https://code.visualstudio.com/
+                          4- notepad++           :  https://notepad-plus-plus.org/downloads/ }
+-- you should download one at least
