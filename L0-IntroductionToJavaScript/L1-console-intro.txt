@@ -1,0 +1,7 @@
+Console is the JavaScript Interpretter
+google chrome console :
+ if you need to show console type (  (ctrl+shift+j)  or  (click right and choose inspect element) )
+ you can type operators in the console like "1+2"
+ you can type JavaScript Codes in console
+ you can show page errors in console like if the element or Src not found
+ 
